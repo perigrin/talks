@@ -1,0 +1,11 @@
+{
+  "creatorIdentifier" : "mobi.dudek.deckset",
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "com.unsignedinteger.deckset" : {
+    "themeIdentifier" : "pixel",
+    "themeVariant" : "scheme1",
+    "presentationIdentifier" : "9BC6651C-5576-4153-8981-7EE3C302C13F"
+  },
+  "version" : 2
+}
