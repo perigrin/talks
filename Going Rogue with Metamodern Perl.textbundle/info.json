@@ -3,9 +3,9 @@
   "transient" : false,
   "type" : "net.daringfireball.markdown",
   "com.unsignedinteger.deckset" : {
-    "themeIdentifier" : "pixel",
-    "themeVariant" : "scheme1",
-    "presentationIdentifier" : "9BC6651C-5576-4153-8981-7EE3C302C13F"
+    "presentationIdentifier" : "9BC6651C-5576-4153-8981-7EE3C302C13F",
+    "themeIdentifier" : "letters from sweden",
+    "themeVariant" : "scheme4"
   },
   "version" : 2
 }
